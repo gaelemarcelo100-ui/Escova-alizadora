@@ -1,0 +1,8 @@
+{
+  "name": "LisseMax — Escova Alisadora Cerâmica Elétrica",
+  "description": "Conheça a LisseMax: uma escova alisadora elétrica com revestimento cerâmico, desenvolvida para ajudar você a alinhar os fios enquanto penteia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
